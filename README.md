@@ -73,6 +73,9 @@ ai-bill-splitter/
 
 ---
 
+> ⚠️ Full dataset excluded due to size limitations.  
+> To access the complete dataset, please contact the author or use your own receipts for testing.
+
 ## 🧑‍💻 Author
 
 **Chaitanya Krishna Gunda**  
