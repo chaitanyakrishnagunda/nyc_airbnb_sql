@@ -1,0 +1,2284 @@
+[
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Total",
+                "price": 9.97
+            }
+        ],
+        "total": 9.97,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "208774",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Bohemia",
+                "price": 16.0
+            },
+            {
+                "item_name": "Albondigas",
+                "price": 9.95
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "s Caribbean Restaurant",
+        "address": "12709 BEECHNUT ST STE100\n",
+        "order_number": "Unknown Order",
+        "cashier": "LeeLee\n",
+        "date_time": "12-Aug-2018 3:01:40P",
+        "items": [
+            {
+                "item_name": "Curry Chicken",
+                "price": 10.0
+            },
+            {
+                "item_name": "Beef Pattie",
+                "price": 2.25
+            },
+            {
+                "item_name": "re\nTotal",
+                "price": 13.26
+            }
+        ],
+        "total": 13.26,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": " s Choice Restaurant",
+        "address": "Unknown Address",
+        "order_number": "1904100085",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "S JR\nRestaurant",
+        "address": "Unknown Address",
+        "order_number": "375719",
+        "cashier": "Alvaro I\n\n",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "9\n1120 15TH ST\n",
+        "order_number": "Unknown Order",
+        "cashier": "V",
+        "date_time": "27-Apr-2017 6:21:59P",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Kamal\n",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "217510",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nof Portugal Restaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "es\n\nTotal",
+                "price": 13.15
+            }
+        ],
+        "total": 13.15,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": " Restaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "ICED TEA",
+                "price": 4.5
+            },
+            {
+                "item_name": "SPARKLING WATER LARG",
+                "price": 8.5
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "200",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "378752",
+        "cashier": "bAok",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 12.51
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "CHicharon",
+                "price": 2.25
+            },
+            {
+                "item_name": "Pupusa Queso",
+                "price": 6.75
+            },
+            {
+                "item_name": "Platanos Orden",
+                "price": 7.75
+            },
+            {
+                "item_name": "Diet coke",
+                "price": 1.5
+            },
+            {
+                "item_name": "Quesadilla salvadorena",
+                "price": 4.0
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "AARON Pax",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "640 N ROBERTSON BLVD\n\n",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "1388",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "\n",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Copy of Receipt\n\nCoffee",
+                "price": 1.45
+            },
+            {
+                "item_name": "Waffle",
+                "price": 5.5
+            },
+            {
+                "item_name": "Whipped Cream",
+                "price": 2.5
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "16530 BELLFLOWER BLVD\n",
+        "order_number": "Unknown Order",
+        "cashier": "BAR PM\nB",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "822819",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nrrimo\n\nfami Restaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "1075",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "TONHTAL DUE",
+                "price": 334.18
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "PM",
+                "price": 12.95
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Mariah\n",
+        "date_time": "17-Feb-2018 9:41:47A",
+        "items": [
+            {
+                "item_name": "i Gotr\nmerican Coffee",
+                "price": 1.75
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "832869",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Guaca Chicharron",
+                "price": 13.95
+            },
+            {
+                "item_name": "EMPANADA",
+                "price": 3.0
+            },
+            {
+                "item_name": "PARGO FRITO",
+                "price": 19.95
+            },
+            {
+                "item_name": "MAR Y CHICKEN",
+                "price": 17.0
+            },
+            {
+                "item_name": "SALMON A LA PLANCHA",
+                "price": 16.0
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Regular",
+                "price": 3.0
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "17861 BISCAYNE BLVD\n\n",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Siz",
+                "price": 38.0
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "BONELESS WINGS SPEC",
+                "price": 10.0
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "4",
+        "cashier": "Mickey\n",
+        "date_time": "04-Nov-2018 9:07:13P",
+        "items": [
+            {
+                "item_name": "Tonkotsu",
+                "price": 9.5
+            },
+            {
+                "item_name": "Egg",
+                "price": 1.3
+            },
+            {
+                "item_name": "Bamboo shoots",
+                "price": 1.0
+            },
+            {
+                "item_name": "Spicy",
+                "price": 0.0
+            },
+            {
+                "item_name": "Tax",
+                "price": 1.01
+            }
+        ],
+        "total": 14.06,
+        "tax": 1.01
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "97",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "\n",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "12",
+        "cashier": "KEVIN DU\n\nCheck ",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "1125 QUEEN ST\n",
+        "order_number": "Unknown Order",
+        "cashier": "Mosa\n",
+        "date_time": "13-Jul-2018 8:53:47P",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nStore",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "s Restaurant\nStore",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": " ",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nDon Juan Mexican Restaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nStore",
+        "address": "Unknown Address",
+        "order_number": "177437",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nBuca di Beppo\nStore",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "sS Restaurant",
+        "address": "Unknown Address",
+        "order_number": "429742",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nMexican Restaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "DINNER RODIZIO",
+                "price": 41.95
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nSales\nA Tax\nRestaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nThai\n\nGUSTS\n\nThai Gusto Restaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Garlic Delight",
+                "price": 10.24
+            },
+            {
+                "item_name": "Grand Total",
+                "price": 30.15
+            }
+        ],
+        "total": 30.15,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "9391",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "s s Pizza Restaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "24016",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Subtotal",
+                "price": 42.75
+            },
+            {
+                "item_name": "Total",
+                "price": 41.31
+            }
+        ],
+        "total": 41.31,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Steak Tip Skevers",
+                "price": 12.99
+            },
+            {
+                "item_name": "es\notal",
+                "price": 30.76
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "4472\n6733 NE 181TH ST\n",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nPrimo\n\nFamily Restaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nores Faeia soearood\nRestaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "30-Jun-2018 10:36:38P",
+        "items": [
+            {
+                "item_name": "Onion Bhajia",
+                "price": 5.95
+            },
+            {
+                "item_name": "medium",
+                "price": 16.95
+            },
+            {
+                "item_name": "Shrimp Briyani\nmedium",
+                "price": 4.0
+            },
+            {
+                "item_name": "Hess Cabernet\nSubtotal",
+                "price": 108.8
+            },
+            {
+                "item_name": "Total",
+                "price": 118.46
+            }
+        ],
+        "total": 118.46,
+        "tax": 3.66
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "242 N LARCHMONT BLVD\n",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Sales Tax",
+                "price": 13.22
+            }
+        ],
+        "total": 0.0,
+        "tax": 13.22
+    },
+    {
+        "store_name": "\n\nSubtotal\nTax r\nService fees on tabl\nRestaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Sergio\n\n",
+        "date_time": "19-Apr-2019 2:02:26P",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "94",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "5738",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nKeo\n\nRestaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "op tie\nCold Noodle With Chicken",
+                "price": 7.95
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "103 MONTGOMERRY ST\n",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Chicken Lollipop",
+                "price": 9.0
+            },
+            {
+                "item_name": "Thai Fried Rice",
+                "price": 12.0
+            },
+            {
+                "item_name": "Med",
+                "price": 0.0
+            },
+            {
+                "item_name": "MILD PLEASE\n\nNaan",
+                "price": 3.0
+            },
+            {
+                "item_name": "Subtotal",
+                "price": 56.0
+            },
+            {
+                "item_name": "Total",
+                "price": 69.79
+            }
+        ],
+        "total": 69.79,
+        "tax": 3.71
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "2042367",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": " ",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "LORENZO REYES\nO",
+        "date_time": "9-May-2017 7:19:46P",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "2124 BONITA AVENUE\n",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Kids Fries",
+                "price": 3.0
+            },
+            {
+                "item_name": "Kids Cheeseburger",
+                "price": 7.0
+            },
+            {
+                "item_name": "Total",
+                "price": 54.2
+            }
+        ],
+        "total": 54.2,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "STOFFEp af TenoKEs",
+                "price": 18.0
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "CHKN PLATE",
+                "price": 9.39
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nVia Mar Restaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "196812",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Spaghetti Marinara",
+                "price": 17.95
+            },
+            {
+                "item_name": "Creme Brulee",
+                "price": 4.0
+            }
+        ],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "Unknown Store",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [],
+        "total": 0.0,
+        "tax": 0.0
+    },
+    {
+        "store_name": "\nrrimo\n\nFamily Restaurant",
+        "address": "Unknown Address",
+        "order_number": "Unknown Order",
+        "cashier": "Unknown Cashier",
+        "date_time": "Unknown Date & Time",
+        "items": [
+            {
+                "item_name": "Sales Tax",
+                "price": 2.97
+            }
+        ],
+        "total": 0.0,
+        "tax": 2.97
+    }
+]

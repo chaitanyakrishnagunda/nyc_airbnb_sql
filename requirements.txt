@@ -1,0 +1,26 @@
+# Core dependencies
+python-dotenv==1.0.1
+numpy==1.26.4
+pandas==2.2.2
+
+# Image processing and OCR
+opencv-python==4.10.0.84
+Pillow==10.4.0
+easyocr==1.7.1
+
+# NLP (for upcoming text parsing and GPT integration)
+nltk==3.9.1
+spacy==3.7.5
+openai==1.43.0
+
+# Utility and file handling
+tqdm==4.66.5
+requests==2.32.3
+
+# Development and testing
+jupyter==1.1.1
+ipykernel==6.29.5
+
+# (Optional) For Streamlit UI in later phases
+streamlit==1.37.0
+
