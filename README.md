@@ -1,6 +1,6 @@
-# 🧾 AI Bill Splitter (Work in Progress 🚧)
+# 🧾 AI Expense Splitter (Work in Progress 🚧)
 
-An **AI-powered Bill Splitting App** that extracts and understands information from receipt images using OCR and NLP.  
+An **AI-powered Expense Splitting App** that extracts and understands information from receipt images using OCR and NLP.  
 The system reads scanned or photographed receipts, parses text details (items, amounts, totals), and prepares structured data for fair bill splitting.
 
 ---
